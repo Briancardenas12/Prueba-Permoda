@@ -1,0 +1,46 @@
+##############################
+# BACKEND (.NET / C#)
+##############################
+
+# Compilación
+backend/CatalogoProductosApi/bin/
+backend/CatalogoProductosApi/obj/
+
+
+# Archivos sensibles de entorno
+backend/CatalogoProductosApi/appsettings.Development.json
+backend/CatalogoProductosApi/appsettings.Local.json
+
+# Archivos de usuario / IDE
+backend/CatalogoProductosApi/*.user
+backend/CatalogoProductosApi/*.suo
+
+##############################
+# FRONTEND (React)
+##############################
+
+# Dependencias
+frontend/catalogo-frontend/node_modules/
+
+# Builds
+frontend/catalogo-frontend/build/
+frontend/catalogo-frontend/dist/
+
+# Cachés
+frontend/catalogo-frontend/.cache/
+frontend/catalogo-frontend/.parcel-cache/
+frontend/catalogo-frontend/npm-debug.log*
+frontend/catalogo-frontend/yarn-error.log*
+
+##############################
+# VS Code
+##############################
+
+.vscode/
+
+##############################
+# Sistema operativo
+##############################
+
+.DS_Store
+Thumbs.db
