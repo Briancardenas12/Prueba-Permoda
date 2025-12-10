@@ -1,3 +1,6 @@
+<img width="561" height="703" alt="image" src="https://github.com/user-attachments/assets/7351a082-2edd-4a5c-b835-ee6d6a55078b" />
+
+
 # Catálogo de Productos – Prueba Técnica
 
 ## 📌 Descripción General
